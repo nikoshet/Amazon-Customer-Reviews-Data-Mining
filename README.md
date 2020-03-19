@@ -35,6 +35,8 @@ More can be found [here](https://s3.amazonaws.com/amazon-reviews-pds/readme.html
 └──Itemsets
 
 ```
+## Libraries Used
+pandas, numpy, matplotlib, seaborn, mlxtend, nltk, sklearn, keras
 
 ### Licence
 Copyright © 2020 Nick Nikitas, Dimitris Zografakis, Filippos Markolefas
